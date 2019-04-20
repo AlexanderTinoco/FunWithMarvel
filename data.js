@@ -1,30 +1,6 @@
+
 //CHALLENGE 1: ARRAY PRACTICE
 //array of Marvel movies in MCU Chronological Order
-let movieList = [
-  "Captain America: The First Avenger",
-  "Captain Marvel",
-  "Iron Man",
-  "The Incredible Hulk",
-  "Iron Man 2",
-  "Thor",
-  "The Avengers",
-  "Iron Man 3",
-  "Thor: The Dark World",
-  "Captain America: The Winter Soldier",
-  "Guardians of the Galaxy",
-  "Guardians of the Galaxy Vol. 2",
-  "Avengers: Age of Ultron",
-  "Ant-Man",
-  "Captain America: Civil War",
-  "Doctor Strange",
-  "Black Panther",
-  "Spider-Man-Homecoming",
-  "Thor: Ragnarok",
-  "Ant-Man and the Wasp",
-  "Avengers: Infinity War",
-]
-
-
 
 //CHALLENGE 2: OBJECT PRACTICE
 //object of data related to the "Iron Man" movie
